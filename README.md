@@ -1,4 +1,4 @@
-# ChestX-ray Deseases Detection
+# Chest X-ray Deseases Detection
 
 The assignment was completed on the Kaggle platform. To install dependencies:
 
